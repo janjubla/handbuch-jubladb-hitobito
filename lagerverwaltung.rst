@@ -14,7 +14,7 @@ Lagerübersicht
     
     Lager - Übersicht
 
-* **Historie & Filtern: Die Filterfunktion oben links und die Historie oben rechts helfen dir dabei, ein bestimmtes Lager zu finden.
+* **Historie & Filtern**: Die Filterfunktion oben links und die Historie oben rechts helfen dir dabei, ein bestimmtes Lager zu finden.
 * **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
 * **Export**: Mit :guilabel:`Export` können die Lagerinformationen entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
 * **Kalender Export**: Mit :guilabel:`Kalender Export` wird das Lager automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
