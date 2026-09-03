@@ -30,30 +30,32 @@ Mit den folgenden Schaltflächen können Lager erstellt, angezeigt und exportier
 
 Lager erstellen
 ===============
-.. figure:: /media/mitgliederverwaltung/schar/lager/gruppe_lager_buttons.png
-    :name: 
-    
-    Lager - Bearbeitungsbutton
 
 Durch das Anwählen von :guilabel:`Lager erstellen`  öffnet sich ein Fenster in dem du verschiedene Einstellungen für dein Lager konfigurieren kannst.
 
-Allgemein
-~~~~~~~~~~~~~~~~~~~~~~~
+.. figure:: \media\mitgliederverwaltung\schar\lager\lager-erstellen_uebersicht.png
+    :name: 
+    
+    Lager - Übersicht
 
-Daten
-~~~~~~~~~~~~~~~~~~~~~~~
 
-Anmeldung
-~~~~~~~~~~~~~~~~~~~~~~~
+**Allgemein**
 
-Anmeldeangaben
-~~~~~~~~~~~~~~~~~~~~~~~
 
-Administrationsangaben
-~~~~~~~~~~~~~~~~~~~~~~~
+**Daten**
 
-Kontaktangaben
-~~~~~~~~~~~~~~~~~~~~~~~
+
+**Anmeldung**
+
+
+**Anmeldeangaben**
+
+
+**Administrationsangaben**
+
+
+**Kontaktangaben**
+
 
 In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lagererfassung-auf-der-jubla.db>`_ wird dir Schritt für Schritt erklärt, wie die Lagererfassung in der jubla.db-Datenbank funktioniert. Im jubla.netz findest du die Infos, was du bei der Erstellung einer `Lageranmeldung <https://jubla.atlassian.net/wiki/x/BwAlW>`_ beachten sollst.  
 
