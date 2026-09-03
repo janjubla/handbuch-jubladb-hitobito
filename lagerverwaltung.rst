@@ -15,6 +15,7 @@ Lagerübersicht
     Lager - Übersicht
 
 Auf der Übersichtsseite findest du verschiedene Schaltflächen mit den folgenden Funktionen:
+
 * **Historie & Filtern**: Die Filterfunktion oben links und die Historie oben rechts helfen dir dabei, ein bestimmtes Lager zu finden.
 * **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
 * **Export**: Mit :guilabel:`Export` können die Lagerinformationen entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
