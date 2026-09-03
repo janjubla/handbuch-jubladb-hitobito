@@ -33,7 +33,7 @@ Lager erstellen
 
 Durch das Anwählen von :guilabel:`Lager erstellen`  öffnet sich ein Fenster in dem du verschiedene Einstellungen für dein Lager konfigurieren kannst.
 
-.. figure:: \media\mitgliederverwaltung\schar\lager\lager-erstellen_uebersicht.png
+.. figure:: /media/mitgliederverwaltung/schar/lager/lager-erstellen_uebersicht.png
     :name: 
     
     Lager - Übersicht
