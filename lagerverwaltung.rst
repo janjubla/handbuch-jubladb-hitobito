@@ -39,7 +39,14 @@ Durch das Anwählen von :guilabel:`Lager erstellen`  öffnet sich ein Fenster in
     Lager - Übersicht
 
 
-**Allgemein**
+Allgemein
+~~~~~~~~~~~~~
+
+Hier können viele allgemeine Informationen über das Lager erfasst werden, wie zum Beispiel: **Name**, **Lagerart**, **Lagerbeschreibung**, **Motto**, **Kosten**, **Ort/Adresse** und **Coach**. Zudem kann Folgendes definiert werden:
+
+* **Nummer**: Hier kann die J&S‑Nummer eingetragen werden.
+* **Kontaktperson**: Hier kann eine Kontaktperson für das Lager ausgewählt werden. Nach dem Auswählen öffnen sich Anzeigeoptionen, die festlegen, welche Informationen der Kontaktperson für die Lagerteilnehmenden angezeigt werden sollen.
+* **Sichtbarkeit**: Mit dem Aktivieren von "Anlass ist für die ganze Datenbank sichtbar" ermöglichst du anderen Scharen, sich für euer Lager anzumelden.
 
 
 **Daten**
