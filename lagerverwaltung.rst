@@ -1,8 +1,9 @@
 ========================
 Lagerverwaltung
 ========================
+Einleitung✏️
 
-Dieser Anleitungsbereich dient der Lagerleitung und Personen, welche für die Verwaltung der Lager zuständig sind.
+Dieser Anleitungsbereich dient der Lagerleitung und Personen, welche für die Verwaltung der Lager in deiner Schar zuständig sind. Der erste Teil handelt sich darum wie du ein neues Lager erstellen kannst. Der zweite Teil behandelt die Lageranmeldung. Dabei wird unterschieden ob du als Lagerleiter die Teilnehmenden manuell hinzufügst oder über den Elternzugang die TN durch ihre Eltern hinzufügen lässt.
 
 Lagerübersicht
 ==============
@@ -24,7 +25,7 @@ Auf der Übersichtsseite findest du verschiedene Schaltflächen mit den folgende
 Lager erstellen
 ===============
 
-Durch das Anwählen von :guilabel:`Lager erstellen`  öffnet sich ein Fenster in dem du verschiedene Einstellungen für dein Lager konfigurieren kannst. Die mit ***** markierte Felder müssen ausgefüllt werden, die Anderen sind optional. Vorallem wenn du vorhast die ``Anmeldung über Elternzugang`` lohnt es sich die folgenden Abschnitte gut durchzulesen um einen Überblick über die Möglichkeiten zu erhalten.✏️
+Damit du ein Lager auf der Datenbank erstellen kannst, benötigst du die Rolle ``Lagerleitung`` oder ``Scharleitung``. Hast du eine dieser beiden Rollen, so kannst du durch das Anwählen von :guilabel:`Lager erstellen` ein neues Lager erstellen und dabei viele Einstellungen individuell konfigurieren. Im allgemeinen gilt, dass die mit ***** markierte Felder zwingend ausgefüllt werden müssen, die Anderen sind optional.
 
 Allgemein
 ~~~~~~~~
@@ -35,6 +36,8 @@ Im Register ``Allgemein`` können generelle Informationen über das Lager einget
     :name: 
     
     Lagerverwaltung - Allgemein
+
+Zudem kann folgendes definiert werden:
 
 * **Nummer**: Hier kann die J+S‑Nummer eingetragen werden.
 * **Kontaktperson**: Hier kann eine Kontaktperson für das Lager ausgewählt werden. Nach dem Auswählen öffnen sich Anzeigeoptionen, die festlegen, welche Informationen der Kontaktperson für die Lagerteilnehmenden angezeigt werden sollen.
@@ -53,7 +56,7 @@ Unter ``Daten`` wird der Zeitraum des lagers definiert.
 * **von**/**bis**: Start- und Enddatum des Lagers
 * **Bezeichung**: zum Beispiel Sommerlager
 * **Ort**: Adresse vom Lagerplatz
-* **Eintrag hinzufügen**: Falls dein Lager in zwei Abschnitte aufgeteilt ist, kann mit ``Eintrag hinzufügen`` kann eine weitere Zeitspanne für dein Lager definert werden.
+* **Eintrag hinzufügen**: Falls dein Lager in zwei Abschnitte aufgeteilt ist, kann mit ``Eintrag hinzufügen`` eine weitere Zeitspanne definert werden.
 
 Anmeldung
 ~~~~~~~~~~
