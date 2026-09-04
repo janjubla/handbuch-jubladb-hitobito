@@ -9,7 +9,7 @@ Lagerübersicht
 
 Über die Registerkarte ``Lager`` im ``Modul Gruppen`` gelangst du zur Übersicht aller erfassten Lager deiner Schar.
 
-.. figure:: /media/Lagerverwaltung/gruppe_lager_uebersicht.png
+.. figure:: /media/lagerverwaltung/gruppe_lager_uebersicht.png
     :name: 
     
     Lager - Übersicht
@@ -26,9 +26,7 @@ Lager erstellen
 
 Durch das Anwählen von :guilabel:`Lager erstellen`  öffnet sich ein Fenster in dem du verschiedene Einstellungen für dein Lager konfigurieren kannst. Die mit ***** markierte Felder müssen ausgefüllt werden, die Anderen sind optional. Vorallem wenn du vorhast die ``Anmeldung über Elternzugang`` lohnt es sich die folgenden Abschnitte gut durchzulesen um einen Überblick über die Möglichkeiten zu erhalten.✏️
 
-Lager konfigurieren
-~~~~~~~~~~~~~~~~~~
-.. figure:: /media/Lagerverwaltung/lager-erstellen_uebersicht.png
+.. figure:: /media/lagerverwaltung/lager-erstellen_uebersicht.png
     :name: 
     
     Lager - Übersicht
@@ -43,7 +41,7 @@ Im Register ``Allgemein`` können unterschiedliche Informationen über das Lager
 
 **Daten**
 
-.. figure:: /media/lagerverwaltung_lager-erstellen_daten.png
+.. figure:: /media/lagerverwaltung/lager-erstellen_daten.png
     :name: 
     
     Lager - Daten
