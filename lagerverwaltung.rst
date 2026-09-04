@@ -12,7 +12,7 @@ Lagerübersicht
 .. figure:: /media/lagerverwaltung/gruppe_lager_uebersicht.png
     :name: 
     
-    Lager - Übersicht
+    Lagerverwaltung - Übersicht
 
 Auf der Übersichtsseite findest du verschiedene Schaltflächen mit den folgenden Funktionen:
 
@@ -26,12 +26,12 @@ Lager erstellen
 
 Durch das Anwählen von :guilabel:`Lager erstellen`  öffnet sich ein Fenster in dem du verschiedene Einstellungen für dein Lager konfigurieren kannst. Die mit ***** markierte Felder müssen ausgefüllt werden, die Anderen sind optional. Vorallem wenn du vorhast die ``Anmeldung über Elternzugang`` lohnt es sich die folgenden Abschnitte gut durchzulesen um einen Überblick über die Möglichkeiten zu erhalten.✏️
 
+**Allgemein**
+
 .. figure:: /media/lagerverwaltung/lager-erstellen_uebersicht.png
     :name: 
     
-    Lager - Übersicht
-
-**Allgemein**
+    Lagerverwaltung - Allgemein
 
 Im Register ``Allgemein`` können unterschiedliche Informationen über das Lager erfasst werden, wie zum Beispiel: **Name**, **Lagerart**, **Lagerbeschreibung**, **Motto**, **Kosten**, **Ort/Adresse** und **Coach**. Zudem kann Folgendes definiert werden:
 
@@ -44,7 +44,7 @@ Im Register ``Allgemein`` können unterschiedliche Informationen über das Lager
 .. figure:: /media/lagerverwaltung/lager-erstellen_daten.png
     :name: 
     
-    Lager - Daten
+    Lagerverwaltung - Daten
 
 Unter ``Daten`` wird der Zeitraum des lagers definiert.
 
