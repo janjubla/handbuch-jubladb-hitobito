@@ -26,36 +26,44 @@ Lager erstellen
 
 Durch das Anwählen von :guilabel:`Lager erstellen`  öffnet sich ein Fenster in dem du verschiedene Einstellungen für dein Lager konfigurieren kannst. Die mit ***** markierte Felder müssen ausgefüllt werden, die Anderen sind optional. Vorallem wenn du vorhast die ``Anmeldung über Elternzugang`` lohnt es sich die folgenden Abschnitte gut durchzulesen um einen Überblick über die Möglichkeiten zu erhalten.✏️
 
-**Allgemein**
+Allgemein
+~~~~~~~~
+
+Im Register ``Allgemein`` können generelle Informationen über das Lager eingetragen werden wie **Name**, **Lagerart**, **Lagerbeschreibung**, **Motto**, **Kosten**, **Ort/Adresse** und **Coach**.
 
 .. figure:: /media/lagerverwaltung/lager-erstellen_uebersicht.png
     :name: 
     
     Lagerverwaltung - Allgemein
 
-Im Register ``Allgemein`` können unterschiedliche Informationen über das Lager erfasst werden, wie zum Beispiel: **Name**, **Lagerart**, **Lagerbeschreibung**, **Motto**, **Kosten**, **Ort/Adresse** und **Coach**. Zudem kann Folgendes definiert werden:
-
 * **Nummer**: Hier kann die J+S‑Nummer eingetragen werden.
 * **Kontaktperson**: Hier kann eine Kontaktperson für das Lager ausgewählt werden. Nach dem Auswählen öffnen sich Anzeigeoptionen, die festlegen, welche Informationen der Kontaktperson für die Lagerteilnehmenden angezeigt werden sollen.
 * **Sichtbarkeit**: Mit dem Aktivieren von "Anlass ist für die ganze Datenbank sichtbar" ermöglichst du anderen Scharen, sich für euer Lager anzumelden.
 
-**Daten**
+Daten
+~~~~~~
+
+Unter ``Daten`` wird der Zeitraum des lagers definiert.
 
 .. figure:: /media/lagerverwaltung/lager-erstellen_daten.png
     :name: 
     
     Lagerverwaltung - Daten
 
-Unter ``Daten`` wird der Zeitraum des lagers definiert.
-
 * **von**/**bis**: Start- und Enddatum des Lagers
 * **Bezeichung**: zum Beispiel Sommerlager
 * **Ort**: Adresse vom Lagerplatz
 * **Eintrag hinzufügen**: Falls dein Lager in zwei Abschnitte aufgeteilt ist, kann mit ``Eintrag hinzufügen`` kann eine weitere Zeitspanne für dein Lager definert werden.
 
-**Anmeldung**
+Anmeldung
+~~~~~~~~~~
 
 Im Register ``Anmeldung`` definierst du alles Organisatorische für deine Lageranmeldung.
+
+.. figure:: /media/lagerverwaltung/lager-erstellen_anmeldung.png
+    :name: 
+    
+    Lagerverwaltung - Anmeldung
 
 * **Anmeldebeginn/Anmeldeschluss**: Hier kannst du den Anmeldezeitraum bestimmen.
 * **Aufnahmebedingungen**: Falls dein Lager Anforderungen an die Teilnhemenden stellt, wie zum Beispiel ein mindest Alter, kannst du diese hier definieren.
@@ -66,20 +74,28 @@ Im Register ``Anmeldung`` definierst du alles Organisatorische für deine Lagera
 * **Abmeldung**: Die Teilnehmende können sich selbst abmelden. Diese Funktion wird nicht empfohlen.
 * **Anmeldebemerkungen**: Hier können alle Einverständnissabklärungen eingefügt werden, zm Beispiel Datenschutz, Bildrechte etc. Vorschläge findest du auf `jubla.netz/Lageranmeldung <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1478819847/Lageranmeldung>`_ unter "Kleingedrucktes".
 
-**Anmeldeangaben**
+Anmeldeangaben
+~~~~~~~~~~
 
 Unter ``Anmeldeangaben`` kannst du Fragen erstellen, welche die Teilnehmenden bei der Anmeldung beantworten müssen. Durch klicken auf ``Eintrag hinzufügen`` kannst du neue Fragen hinzufügen und dir so hilfreiche Informationen über die Teilnehmenden einholen, wie zum Beispiel, das Schwimmniveau, Essgewohnheiten, T-shirt Grösse etc. Auf `jubla.netz/Lageranmeldung <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1478819847/Lageranmeldung>`_ unter "Allgemeine Angaben" findest du Empfehlungen dazu, welche Informationen dur dir einholen solltest.
+
+.. figure:: /media/lagerverwaltung/lager-erstellen_anmeldeangaben.png
+    :name: 
+    
+    Lagerverwaltung - Anmeldeangaben
 
 * **Frage**: Definiere die Frage.
 * **Antwortmöglichkeiten**: Durch ``Antwortmöglichkeit hinzufügen``, können Anwtorten vorgegeben werden. Für Freitextantworten keine Antwortmöglichkeiten hinzufügen. Wenn mehrere Antowrten möglich sein sollen, ``Mehrfachauswahl`` aktivieren.
 * **Obligatorisch**: Durch das Anwählen muss diese Frage zwingend beantworted werden.
 * **Sichtbar für**: Hier kannst du festlegen, welche Personen zugriff auf die Antworten der Teilnehmenden zu dieser Frage haben.
 
-**Administrationsangaben**
+Administrationsangaben
+~~~~~~~~~~~~~~~~~~~~~~
 
 ??✏️
 
-**Kontaktangaben**
+Kontaktangaben
+~~~~~~~~~~~~~~
 
 Hier kannst du wählen, welche Kontaktangaben der Teilnehmenden bei der Anmeldung abgefragt werden sollen. Es gibt die Möglichkeit zwischen Obligatorisch, Optional und Nicht anzeigen zu wählen.
 
