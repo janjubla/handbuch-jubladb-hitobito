@@ -43,7 +43,7 @@ Im Register ``Allgemein`` können unterschiedliche Informationen über das Lager
 
 **Daten**
 
-.. figure:: /media/lagerverwaltung/lagerverwaltung_lager-erstellen_daten.png
+.. figure:: /media/lagerverwaltung_lager-erstellen_daten.png
     :name: 
     
     Lager - Daten
