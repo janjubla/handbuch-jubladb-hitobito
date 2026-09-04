@@ -112,8 +112,14 @@ Falls du bei der Lagererstellung lieber einem Video folgst, kannst du dir dieses
 Lageranmeldung
 ==============
 
-Teilnehmende manuell hinzufügen
+Generell gibt es zwei Möglichkeiten die Lagerteilnehmer auf der ``jubla.db`` anzumelden. Entweder du lässt die Lagerteilnehmer/Eltern die Anmeldung analog per post ausfüllen und fügst die TN selber auf der Datenbank hinzu, oder du kannst die Teilnehmenden/Eltern die Anmeldung auf der selbst vornehmen lassen. Im folgednen werden beide Methoden erklärt.
+
+Teilnehmende selber hinzufügen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In der Registerkarte ``Teilnehmende`` deines Lagers, kannst du mit der Schaltfläche :guilabel:`Person hinzufügen` manuell Personen hinzufügen und ihre Rolle im Lager definieren. Wichtig ist, dass die Personen bereits ein Profil auf der ``jubla.db`` haben.
+
+Wenn du beim Lagererstellen ``Anmeldeangaben`` definiert hast so kannst du als nächstes die Fragen für die Person beantworten und unter Bemerkungen weitere relevante Informationen ergänzen. Wenn du alles eingetragen hast, kannst du die Anmeldung abschliessen durch das drücken von ``speichern``.
 
 In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie du die Teilnehmenden für das Lager verwalten kannst.
 
