@@ -9,7 +9,7 @@ Lagerübersicht
 
 Über die Registerkarte ``Lager`` im ``Modul Gruppen`` gelangst du zur Übersicht aller erfassten Lager deiner Schar.
 
-.. figure:: media\Lagerverwaltung\gruppe_lager_uebersicht.png
+.. figure:: /media/Lagerverwaltung/gruppe_lager_uebersicht.png
     :name: 
     
     Lager - Übersicht
@@ -28,7 +28,7 @@ Durch das Anwählen von :guilabel:`Lager erstellen`  öffnet sich ein Fenster in
 
 Lager konfigurieren
 ~~~~~~~~~~~~~~~~~~
-.. figure:: media\Lagerverwaltung\lager-erstellen_uebersicht.png
+.. figure:: /media/Lagerverwaltung/lager-erstellen_uebersicht.png
     :name: 
     
     Lager - Übersicht
@@ -43,7 +43,7 @@ Im Register ``Allgemein`` können unterschiedliche Informationen über das Lager
 
 **Daten**
 
-.. figure:: media\lagerverwaltung\lagerverwaltung_lager-erstellen_daten.png
+.. figure:: /media/lagerverwaltung/lagerverwaltung_lager-erstellen_daten.png
     :name: 
     
     Lager - Daten
