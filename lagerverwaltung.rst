@@ -151,8 +151,13 @@ Damit es für die Eltern möglichst einfach ist, das Lager auf der Datenbank zu 
 .. figure:: /media/lagerverwaltung/lageranmeldung_elternzugang_link.png
     :name: 
     
-    Lageranmeldung - Anmeldeangaben
+    Lageranmeldung - Link
 
-Durch klicken auf ``Anmelden`` können die Eltern jetzt ganz einfach ihre Kinder anmelden.
+Wenn die Eltern den Link öffnen, landen sie direkt auf der Übersichtsseite des Lagers. Durch klicken auf ``Anmelden`` können die Eltern jetzt ganz einfach ihre Kinder anmelden.
+
+.. figure:: /media/lagerverwaltung/lageranmeldung_elternzugang_kind_auswahl.png
+    :name: 
+    
+    Lageranmeldung - Anmeldung
 
 In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie die Eltern ihre Kinder anmelden können.
