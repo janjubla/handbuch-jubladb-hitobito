@@ -322,7 +322,7 @@ Lager
     
     Lager - Übersicht
 
-Hier findest du eine Übersicht über alle Lager deiner Schar. Detaillierte Erklärungen, wie du neue Lager erstellen und Teilnehmer*innen hinzufügen kannst, findest du im Kapitel ``Lagerverwaltung``.
+Hier findest du eine Übersicht über alle Lager deiner Schar. Detaillierte Erklärungen, wie du neue Lager erstellen und Teilnehmer*innen hinzufügen kannst, findest du im Kapitel :fa:`file` :ref: `Lagerverwaltung <lagerverwaltung-link-target>`.
 
 Abos
 ----
