@@ -93,7 +93,7 @@ Unter ``Anmeldeangaben`` kannst du hilfreiche, lagerrelevante Informationen übe
 * **Frage**: Hier kannst du die Frage definieren.
 * **Antwortmöglichkeiten**: Durch ``Antwortmöglichkeit hinzufügen``, können Antworten vorgegeben werden. Für Freitextantworten keine Antwortmöglichkeiten hinzufügen. Wenn mehrere Antworten möglich sein sollen, ``Mehrfachauswahl`` aktivieren.
 * **Obligatorisch**: Durch das Anwählen muss diese Frage zwingend beantwortet werden.
-* **Sichtbar für**: Hier kannst du festlegen, welche Personen Zugriff auf die Antworten der Teilnehmenden zu dieser Frage haben.
+* **Sichtbar für**: Hier kannst du festlegen, welchen Personen die Frage bei der Anmeldung angezeigt wird und welchen nicht. Schaue deswegen, dass der Haken  bei ``Teilnehmer*innen`` gesetzt ist, ausser die Frage ist spezifisch für eine andere Rolle gedacht (Bspw. Kannst du Auto fahren? - für die Küche).
 
 Administrationsangaben
 ~~~~~~~~~~~~~~~~~~~~~~
