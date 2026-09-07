@@ -1,3 +1,5 @@
+..  _lagerverwaltung-link-target:
+
 ========================
 Lagerverwaltung
 ========================
