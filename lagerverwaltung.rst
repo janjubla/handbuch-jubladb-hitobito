@@ -1,7 +1,7 @@
 ========================
 Lagerverwaltung
 ========================
-Dieser Anleitungsbereich dient der Lagerleitung und Personen, welche für die Verwaltung der Lager in deiner Schar zuständig sind. Der erste Teil handelt davon, wie du ein neues Lager erstellen kannst. Der zweite Teil behandelt die Lageranmeldung. Dabei wird unterschieden, ob du als Lagerleiter die Kinder manuell hinzufügst oder sie über den ``Elternzugang`` durch ihre Eltern hinzufügen lässt. Über die Registerkarte ``Lager`` im ``Modul Gruppen`` gelangst du zur Übersicht aller erfassten Lager deiner Schar.
+Dieser Anleitungsbereich dient der Lagerleitung und Personen, welche für die Verwaltung der Lager in deiner Schar zuständig sind. Der erste Teil handelt davon, wie du ein neues Lager erstellen kannst. Der zweite Teil behandelt die Lageranmeldung. Dabei wird unterschieden, ob du als Lagerleiter die Kinder manuell hinzufügst oder sie über den ``Elternzugang`` durch ihre Eltern hinzufügen lässt. Über die Registerkarte ``Lager`` im Modul ``Gruppen`` gelangst du zur Übersicht aller erfassten Lager deiner Schar.
 
 Lagerübersicht
 ==============
@@ -11,7 +11,7 @@ Lagerübersicht
     
     Lagerverwaltung - Übersicht
 
-Auf der Übersichtsseite findest du verschiedene Schaltflächen mit den folgenden Funktionen zur Lagerverwaltung:
+Hier findest du verschiedene Schaltflächen zur Lagerverwaltung mit den folgenden Funktionen:
 
 * **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster, in dem ein neuer Anlass erstellt werden kann.  
 * **Export**: Mit :guilabel:`Export` können die Lagerinformationen entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
@@ -141,7 +141,7 @@ Wenn du beim Lagererstellen ``Anmeldeangaben`` definiert hast, so kannst du als 
 
 In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie du die Teilnehmenden für das Lager verwalten kannst.
 
-Lageranmeldung über dem Elternzugang
+Lageranmeldung über den Elternzugang
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Je grösser ein Lager ist, desto mehr Aufwand entsteht durch das manuelle Hinzufügen der Teilnehmenden. Um den Aufwand zu reduzieren, kannst du den ``Elternzugang`` für deine Schar einrichten. Dadurch können die Eltern die Profile ihrer Kinder verwalten und diese selbstständig für euer Lager anmelden. Wie du den ``Elternzugang`` einrichten kannst, wird dir unter ``Elternzugangsverwaltung`` erklärt. Im folgenden Abschnitt wird erklärt, wie die Eltern nach dem Einrichten des Zugangs ihre Kinder selbstständig auf der Datenbank anmelden können.
