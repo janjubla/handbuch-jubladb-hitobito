@@ -23,6 +23,10 @@ Lager erstellen
 
 Damit du ein neues Lager auf der Datenbank erstellen kannst, benötigst du die Rolle ``Lagerleitung`` oder ``Scharleitung``. Hast du eine dieser beiden Rollen, so kannst du durch das Anwählen von :guilabel:`Lager erstellen` ein neues Lager in der Datenbank erstellen und individuell konfigurieren. Die mit ***** markierten Felder müssen zwingend ausgefüllt werden. Die Anderen sind optional.
 
+.. figure:: /media/lagerverwaltung/gruppe_lager_erstellen.png
+    :name: 
+    
+    Lagerverwaltung - Lager erstellen
 
 Allgemein
 ~~~~~~~~
@@ -120,6 +124,8 @@ In der Registerkarte ``Teilnehmende`` deines Lagers, kannst du mit der Schaltfl�
     :name: 
     
     Lageranmeldung - Übersicht
+
+Im Feld ``Person suchen`` kannst du mit dem Namen nach einer Person suchen und sie hinzufügen.
 
 .. figure:: /media/lagerverwaltung/lageranmeldung_tn-erstellen.png
     :name: 
