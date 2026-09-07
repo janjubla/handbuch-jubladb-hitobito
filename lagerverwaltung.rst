@@ -148,7 +148,7 @@ In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/
 Lageranmeldung über den Elternzugang
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Je grösser ein Lager ist, desto mehr Aufwand entsteht durch das manuelle Hinzufügen der Teilnehmenden. Um den Aufwand zu reduzieren, kannst du den ``Elternzugang`` für deine Schar einrichten. Dadurch können die Eltern die Profile ihrer Kinder verwalten und diese selbstständig für euer Lager anmelden. Wie du den ``Elternzugang`` einrichten kannst, wird dir unter :ref:`Elternzugangsverwaltung <elternzugang-link-target>` erklärt. Im folgenden Abschnitt wird erklärt, wie die Eltern nach dem Einrichten des Zugangs ihre Kinder selbstständig auf der Datenbank für das Lager anmelden können.
+Je grösser ein Lager ist, desto mehr Aufwand entsteht durch das manuelle Hinzufügen der Teilnehmenden. Um den Aufwand zu reduzieren, kannst du den ``Elternzugang`` für deine Schar einrichten. Dadurch können die Eltern die Profile ihrer Kinder verwalten und diese selbstständig für euer Lager anmelden. Wie du den ``Elternzugang`` einrichten kannst, wird dir unter :ref:`Elternzugangsverwaltung <elternzugang-link-target>` erklärt. Im folgenden Abschnitt wird gezeigt, wie die Eltern nach dem Einrichten des Zugangs ihre Kinder selbstständig auf der Datenbank für das Lager anmelden können.
 
 Damit es für die Eltern möglichst einfach ist, das Lager auf der Datenbank zu finden, kannst du auf ``Direktlink kopieren`` klicken und diesen Link mit den Eltern teilen.
 
