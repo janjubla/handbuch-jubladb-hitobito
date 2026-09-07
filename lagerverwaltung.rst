@@ -168,3 +168,7 @@ Anschliessend können die Eltern die Anmeldung ausfüllen und speichern. In dies
     :name: 
     
     Lageranmeldung - Kontaktangaben
+.. figure:: /media/lagerverwaltung/lageranmeldung_elternzugang_anmeldeangaben.png
+    :name: 
+    
+    Lageranmeldung - Kontaktangaben
