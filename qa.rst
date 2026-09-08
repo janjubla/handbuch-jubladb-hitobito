@@ -43,8 +43,7 @@ Hier ist eine allgemeine Anleitung:
   - Speichere die Regel und aktiviere sie, falls erforderlich.
   - Manche E-Mail-Dienste haben sehr strikte Spam-Filter. Schau in deinen Einstellungen nach, ob du den Spam-Filter anpassen oder unsere Adresse auf eine „Whitelist“ setzen kannst.
 
-3. Falls du gar keine E-Mails bekommst
-Wende dich an den Vorstand oder die Adressverwaltung um zu klären, weshalb du keine Nachrichten bekommst. 
+3. Falls du gar keine E-Mails bekommst, wende dich an den Vorstand oder die Adressverwaltung um zu klären, weshalb du keine Nachrichten bekommst. 
 
 
 E-Mail-Zustellung von Abos sicherstellen
@@ -170,11 +169,11 @@ Bevor die **Arbeitsstelle** die Funktion ``Scharfusion`` nutzen kann, müssen fo
 
 **Technische Herausforderungen bei Scharfusion**
 
-Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig ausgefüllt oder beschreiben werden können. 
+Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig ausgefüllt oder beschrieben werden können. 
   
 * Fehlende Berechtigungen für Profile mit der Rolle ``Kind / Extern`` 
   
-  In diesem Fall musst die Berechtigung/Rolle für die zu fusionierende Profile muss vorhanden sein, dies soll auch überprüft werden, falls etwas nicht funktionieren würde. 
+  In diesem Fall muss die Berechtigung/Rolle für die zu fusionierenden Profile vorhanden sein. Dies soll auch überprüft werden, falls etwas nicht funktionieren würde. 
   
   
 * Überprüfung von den Rollen und Gruppen vom Typ ``Ehemalige``
@@ -189,8 +188,9 @@ Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollstä
 Scharauflösung
 --------------
 
-Informationen zum Thema `Vereinsmanagement im jubla.netz <https://jubla.atlassian.net/wiki/x/DYArRg>`_
-Bevor die **Arbeitsstelle** die Funktion ``Schar löschen`` nutzen kann müssen folgende Punkte erledigt werden:
+Informationen zum Thema `Vereinsmanagement im jubla.netz <https://jubla.atlassian.net/wiki/x/DYArRg>`_.
+
+Bevor die **Arbeitsstelle** die Funktion ``Schar löschen`` nutzen kann, müssen folgende Punkte erledigt werden:
 
 * Abklären, ob Mitgliederdaten gelöscht werden möchten oder nicht
 * Kontaktperson aus Gruppen entfernen
