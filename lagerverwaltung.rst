@@ -111,7 +111,9 @@ Unter ``Anmeldeangaben`` kannst du hilfreiche, lagerrelevante Informationen übe
 Administrationsangaben
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Im Gegensatz zu den Fragen unter ``Anmeldeangaben`` werden diese unter ``Administrationsangaben`` bei der ``Lageranmeldung`` nur gestellt, wenn die Lagerleitung selbst neue Personen zum Lager hinzufügt. Wenn die Lageranmeldung durch die Teilnehmer*innen selbst oder ihre Eltern über den Elternzugang ausgefüllt wird, werden nur die Fragen unter ``Anmeldeangaben`` angezeigt. Die Lagerleitung kann in diesem Fall die Administrationsangaben selbst ergänzen. So können beispielsweise die Teilnehmende in Lagergruppen eingeteilt werden.
+Im Abschnitt ``Administrationsangaben`` kannst du administrative Fragen erstellen. Im Gegensatz zu den Fragen unter ``Anmeldeangaben`` werden diese den Teilnehmer*innen bei der Lageranmeldung **nicht** gestellt, sondern lediglich der Lagerleitung, wenn sie neue Personen dem Lager hinzufügt oder bestehende Anmeldungen bearbeitet. So können etwa die Teilnehmer*innen durch die Lagerleitung in Lager- und/oder Ämtligruppen eingeteilt werden.
+
+Wenn die Lageranmeldung durch die Teilnehmer*innen selbst oder ihre Eltern über den Elternzugang ausgefüllt wird, werden nur die Fragen unter ``Anmeldeangaben`` angezeigt. Die Lagerleitung kann in diesem Fall die Administrationsfragen selbst nachträglich in der Anmeldung ergänzen. Mehr dazu im Abschnitt: :ref:`Lageranmeldung über den Elternzugang <lageranmeldung_elternzugang-link-target>`.
 
 .. figure:: /media/lagerverwaltung/lager-erstellen_administrationsangaben.png
     :name: 
@@ -121,14 +123,19 @@ Im Gegensatz zu den Fragen unter ``Anmeldeangaben`` werden diese unter ``Adminis
 * **Frage**: Hier kannst du die Frage definieren.
 * **Antwortmöglichkeiten**: Durch ``Antwortmöglichkeit hinzufügen``, können Antworten vorgegeben werden. Für Freitextantworten kannst du die Antwortmöglichkeiten weglassen. Wenn mehrere Antworten möglich sein sollen, ``Mehrfachauswahl`` aktivieren.
 * **Obligatorisch**: Durch das Anwählen muss diese Frage zwingend beantwortet werden.
-* **Sichtbar für**: Hier kannst du festlegen, welche Personen die Berechtigung erhalten, die Administrationsantworten zu sehen. So kannst du etwa Mitgliedern der Küche die Berechtigung geben die Gruppeneinteilung einzusehen, um diese für die Abwaschgruppen einteilung zu verwenden.
+* **Sichtbar für**: Hier kannst du festlegen, welche Personen die Berechtigung erhalten, die Administrationsantworten zu sehen. So kannst du etwa Mitgliedern der Küche die Berechtigung geben, die Gruppeneinteilung einzusehen, um diese für die Abwaschgruppeneinteilung zu verwenden.
 
-.. important:: Wenn du vor hast die ``Lageranmeldung über den Elternzugang`` durch die Eltern durchzuführen, darfst du den Hacken nicht auf obligatorisch setzten. Ansonsten kann die Anmeldung nicht abgeschlossen werden, da die Administrationsanagaben nicht beantwortet werden können, da sie ihnen nicht angezeigt werden.✏️
+.. important:: Wenn du vor hast, die :ref:`Lageranmeldung über den Elternzugang <lageranmeldung_elternzugang-link-target>` durchzuführen, darfst du den Haken nicht auf obligatorisch setzen. Ansonsten kann die Anmeldung nicht abgeschlossen werden, da ihnen die Administrationsfragen nicht angezeigt werden und sie deswegen auch nicht beantworten können. Du kannst sie aber später selbst manuell beantworten.
 
 Kontaktangaben
 ~~~~~~~~~~~~~~
 
-Hier kannst du wählen, welche Kontaktangaben der Teilnehmenden bei der Anmeldung abgefragt werden sollen. Es gibt die Möglichkeit, zwischen ``Obligatorisch``, ``Optional`` und ``Nicht anzeigen`` zu wählen.
+Hier kannst du wählen, welche Kontaktangaben der Teilnehmenden bei der Anmeldung abgefragt werden sollen. Es gibt die Möglichkeit, zwischen ``Obligatorisch``, ``Optional`` und ``Nicht anzeigen`` zu wählen. Wenn du die Teilnehmer*innen manuell als Lagerleiter*in hinzufügst, musst du die Kontaktangaben im Profil ergänzen, da sie nicht beim Hinzufügen abgefragt werden.
+
+.. figure:: /media/lagerverwaltung/lager-erstellen_kontaktangaben.png
+    :name: 
+    
+    Lagerverwaltung - Kontaktangaben
 
 .. important:: Die folgenden Angaben sind obligatorisch für die NDS: **Name**, **Vorname**, **Geburtsdatum**, **Geschlecht** (nur weiblich oder männlich zulässig auf der NDS), **AHV Nr**, **Nationalität**, **Muttersprache**, **Strasse**, **Hausnummer**, **PLZ**, **Ort**, **Land**
 
@@ -167,6 +174,8 @@ Wenn du beim Lagererstellen ``Anmeldeangaben`` definiert hast, so kannst du als 
     Lageranmeldung - Anmeldeangaben
 
 In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie du die Teilnehmenden für das Lager verwalten kannst.
+
+..  _lageranmeldung_elternzugang-link-target:
 
 Lageranmeldung über den Elternzugang
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
