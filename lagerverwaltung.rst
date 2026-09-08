@@ -97,14 +97,16 @@ Unter ``Anmeldeangaben`` kannst du hilfreiche, lagerrelevante Informationen übe
 * **Obligatorisch**: Durch das Anwählen muss diese Frage zwingend beantwortet werden.
 * **Sichtbar für**: Hier kannst du festlegen, welche Personen die Berechtigung erhalten, die Antworten der Teilnehmenden zu sehen. So kannst du etwa Mitgliedern der Küche die Berechtigung auf die Frage der Essgewohnheiten geben. Wenn du die Antworten für die Teilnehmer*innen zugänglich machen willst, muss zusätzlich im vorherigen Abschnitt ``Anmeldung`` der Haken unter ``Teilnehmersichtbarkeit`` gesetzt sein. Ansonsten gelangen sie nicht auf die Teilnehmeransicht, auf der die Informationen aufgeführt sind.
 
-    Beispiel:
-
+    **Beispiel - Sichtbarkeit**:
+    
     In der folgenden Abbildung siehst du, wie die Teilnehmerübersicht unter dem Register ``Teilnehmende`` aus der Sicht eines Küchenmitglieds (Sebastian Muster) aussehen kann. Um die Antworten der Teilnehmenden zu sehen, muss unter ``spalten`` die entsprechende Frage ausgewählt werden. In diesem Beispiel kann die Person nur die Essgewohnheiten einsehen, jedoch nicht das Schwimmniveau (ausser ihr eigenes).
     
     .. figure:: /media/lagerverwaltung/lager-erstellen_anmeldeangaben_tnübersicht_küche.png
         :name: 
-        
+            
         Lagerverwaltung - Teilnehmerübersicht als ``Küche``
+
+    Anschliessend können die Informationen über ``Export`` als Excel heruntergeladen werden um zum Beispiel die Menüplanung digital vorzunehmen. Mehr dazu im Abschnitt ``Datenverwaltung``. ✏️
 
 Administrationsangaben
 ~~~~~~~~~~~~~~~~~~~~~~
