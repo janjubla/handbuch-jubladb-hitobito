@@ -95,7 +95,7 @@ Häufige Fragen
 
 **F: Kann ich Ehemalige selbst in eine Ehemaligenvereins-Gruppe verschieben?**
 
-A: Nein. Personen müssen sich selbst anmelden oder von der Vereinsleitung hinzugefügt werden. Du kannst diese Person aber auf den Ehemaligenvereins hinweisen.
+A: Nein. Personen müssen sich selbst anmelden oder von der Vereinsleitung hinzugefügt werden. Du kannst diese Person aber auf den Ehemaligenverein hinweisen.
 
 **F: Was ist der Unterschied zwischen «Austritt» und «Ehemalige»?**
 
