@@ -78,8 +78,8 @@ Im Register ``Anmeldung`` definierst du alles Organisatorische für deine Lagera
 * **Teilnehmendenzahl**: Mit den Feldern ``Maximale-/Minimale Teilnehmendenzahl`` kann die Personenanzahl gesteuert werden. Wenn die maximale Anzahl bereits vor dem Anmeldeschluss erreicht wird, so wird das Anmeldefenster automatisch vorzeitig geschlossen.
 * **Externe Anmeldungen**: Wenn aktiviert, können sich auch Personen, welche noch kein Profil auf der jubla Datenbank haben, für dieses Lager anmelden. Falls die Eltern ihre Kinder über den ``Elternzugang`` selbst anmelden, empfiehlt sich, dieses Feld zu deaktivieren. So wird sichergestellt, dass die Eltern sich mit dem richtigen Profil anmelden.
 * **Teilnehmersichtbarkeit**: Hier kann festgelegt werden, ob die Teilnehmenden sehen können, wer sich für das Lager angemeldet hat.
-* **(Zweit)Unterschrift erforderlich**: ??✏️
-* **Abmeldung**: Die Teilnehmenden können sich selbst abmelden. Diese Funktion wird nicht empfohlen.
+* **(Zweit)Unterschrift erforderlich**: Aktivierung von ``Unterschrift erforderlich`` fordert die Teilnehmenden nach der Anmeldung auf, die Anmeldebestätigung zu unterschreiben und an die Kontaktperson zu senden. Falls eine Zweitunterschrift benötigt wird, zum Beispiel von einer erziehungsberechtigten Person, kann ``Zweitunterschrift erforderlich`` zusätzlich aktiviert werden.
+* **Abmeldung**: Die Teilnehmenden können sich selbst abmelden.
 * **Anmeldebemerkungen**: Hier können Einverständnisabklärungen eingefügt werden (Datenschutz, Bildrechte etc.). Vorschläge findest du auf `jubla.netz/Lageranmeldung <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1478819847/Lageranmeldung>`_ unter "Kleingedrucktes".
 
 Anmeldeangaben
