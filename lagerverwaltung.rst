@@ -93,9 +93,18 @@ Unter ``Anmeldeangaben`` kannst du hilfreiche, lagerrelevante Informationen übe
     Lagerverwaltung - Anmeldeangaben
 
 * **Frage**: Hier kannst du die Frage definieren.
-* **Antwortmöglichkeiten**: Durch ``Antwortmöglichkeit hinzufügen``, können Antworten vorgegeben werden. Für Freitextantworten keine Antwortmöglichkeiten hinzufügen. Wenn mehrere Antworten möglich sein sollen, ``Mehrfachauswahl`` aktivieren.
+* **Antwortmöglichkeiten**: Durch ``Antwortmöglichkeit hinzufügen``, können Antworten vorgegeben werden. Für Freitextantworten kannst du die Antwortmöglichkeiten weglassen. Wenn mehrere Antworten möglich sein sollen, ``Mehrfachauswahl`` aktivieren.
 * **Obligatorisch**: Durch das Anwählen muss diese Frage zwingend beantwortet werden.
-* **Sichtbar für**: Hier kannst du festlegen, welchen Personen die Frage bei der Anmeldung angezeigt wird und welchen nicht. Schaue deswegen, dass der Haken  bei ``Teilnehmer*innen`` gesetzt ist, ausser die Frage ist spezifisch für eine andere Rolle gedacht (Bspw. Kannst du Auto fahren? - für die Küche). Nur so werden die Teilnehmer*innen die Frage beantworten können.
+* **Sichtbar für**: Hier kannst du festlegen, welche Personen die Berechtigung erhalten, die Antworten der Teilnehmenden zu sehen. So kannst du etwa Mitgliedern der Küche die Berechtigung auf die Frage der Essgewohnheiten geben. Wenn du die Antworten für die Teilnehmer*innen zugänglich machen willst, muss zusätzlich im vorherigen Abschnitt ``Anmeldung`` der Haken unter ``Teilnehmersichtbarkeit`` gesetzt sein. Ansonsten gelangen sie nicht auf die Teilnehmeransicht, auf der die Informationen aufgeführt sind.
+
+    Beispiel:
+
+    In der folgenden Abbildung siehst du, wie die Teilnehmerübersicht unter dem Register ``Teilnehmende`` aus der Sicht eines Küchenmitglieds (Sebastian Muster) aussehen kann. Um die Antworten der Teilnehmenden zu sehen, muss unter ``spalten`` die entsprechende Frage ausgewählt werden. In diesem Beispiel kann die Person nur die Essgewohnheiten einsehen, jedoch nicht das Schwimmniveau (ausser ihr eigenes).
+    
+    .. figure:: /media/lagerverwaltung/lager-erstellen_anmeldeangaben_tnübersicht_küche.png
+        :name: 
+        
+        Lagerverwaltung - Teilnehmerübersicht als ``Küche``
 
 Administrationsangaben
 ~~~~~~~~~~~~~~~~~~~~~~
