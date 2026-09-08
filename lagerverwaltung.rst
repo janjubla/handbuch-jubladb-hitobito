@@ -206,3 +206,12 @@ Anschliessend können die Eltern die Anmeldung ausfüllen und speichern. In dies
     :name: 
     
     Lageranmeldung - Anmeldeangaben
+
+Anmeldedaten verwalten
+========================
+
+Excel exportieren
+~~~~~~~~~~~~~~~~~~
+
+Adressetiketten erstellen
+~~~~~~~~~~~~~~~~~~~~~~~~~~
