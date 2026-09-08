@@ -17,7 +17,7 @@ Rolle Kassier*in
 Das Modul ``Rechnungen`` kann nur von Profilen mit speziellen Berechtigungen der Rolle ``Kassier*in`` verwendet werden. Nur sie können Rechnungen erstellen und verwalten. Die Rolle wird vom ``Vorstand`` (Scharleitung) vergeben und setzt die Zwei-Faktor-Authentifizierung (2FA) zwingend voraus. Weitere Informationen zur 2FA findest du unter `Datensicherheit <https://jubladb-handbuch.readthedocs.io/de/latest/datenschutz.html#datensicherheit>`_.
 
 **Rolle Adressverwaltung** 
-Sofern du als ``Kassier*in`` Rechnungen an ein Profil (bestimmte Person) oder gleich anpassungen oder korrigieren von Adresse / E-Mail-Adresse vornehmen sollst, benötigst du die entsprechnen Berechtigungen zum bearbeiten dieser Profile. Das kanns du zum Beispiel mit der Rolle ``Adressverwaltung``.
+Sofern du als ``Kassier*in`` Rechnungen an ein Profil (bestimmte Person) oder gleich anpassungen oder korrigieren von Adresse / E-Mail-Adresse vornehmen sollst, benötigst du die entsprechnen Berechtigungen zum bearbeiten dieser Profile. Das kannst du zum Beispiel mit der Rolle ``Adressverwaltung``.
 
 
 
@@ -97,9 +97,9 @@ Unter Buchungsbeleg wird eine rudimentäre Übersicht über die eingegangenen Za
 
 Häufig gestellte Fragen:
 ---------------------------------------
-Q1: Ich kann keine Rechnungen erstellen. Die Gruppe als welche ich Rechnungen stellen mögcht ist ausgegraut.
+Q1: Ich kann keine Rechnungen erstellen. Die Gruppe, als welche ich Rechnungen stellen möchte, ist ausgegraut.
 
-A1: Für die ausgegraute Gruppe sind keine gültigen Rechnungseinstellungen vorhanden. Bitte aktuallisiere die Rechnungseinstellungen.
+A1: Für die ausgegraute Gruppe sind keine gültigen Rechnungseinstellungen vorhanden. Bitte aktualisiere die Rechnungseinstellungen.
 
 
 Q2: Ich kann meine Rechnungseinstellungen nicht speichern? 
@@ -114,7 +114,7 @@ A3: Eine Rechnung kann nur gelöscht werden, solange sie noch den Status "Entwur
 
 Q4: Eine Rechnung mit dem Status "Gestellt" wird nicht gemahnt, obwohl ich diese bei Mahnen ausgewählt hatte.
 
-A4: Rechnungen werden nur gemahnt, wenn das Mahndatum erreicht wird. Sschaue in den Rechnungseinstellungen nach, wie lange nach Rechnungsdatum hier die Mahnfrist ist.
+A4: Rechnungen werden nur gemahnt, wenn das Mahndatum erreicht wird. Schaue in den Rechnungseinstellungen nach, wie lange nach Rechnungsdatum hier die Mahnfrist ist.
 
 
 Q5: Nach dem Speichern meiner Sammelrechnung werden keine Rechnungen erstellt.
