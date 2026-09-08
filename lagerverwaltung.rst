@@ -106,12 +106,24 @@ Unter ``Anmeldeangaben`` kannst du hilfreiche, lagerrelevante Informationen übe
             
         Lagerverwaltung - Teilnehmerübersicht als ``Küche``
 
-    Anschliessend können die Informationen über ``Export`` als Excel heruntergeladen werden um zum Beispiel die Menüplanung digital vorzunehmen. Mehr dazu im Abschnitt ``Datenverwaltung``. ✏️
+    Anschliessend können die Informationen über ``Export`` als Excel heruntergeladen werden um zum Beispiel die Menüplanung digital vorzunehmen. Mehr dazu im Abschnitt ``Datenverwaltung``.
 
 Administrationsangaben
 ~~~~~~~~~~~~~~~~~~~~~~
 
-??✏️
+Im Gegensatz zu den Fragen unter ``Anmeldeangaben`` werden diese unter ``Administrationsangaben`` bei der ``Lageranmeldung`` nur gestellt, wenn die Lagerleitung selbst neue Personen zum Lager hinzufügt. Wenn die Lageranmeldung durch die Teilnehmer*innen selbst oder ihre Eltern über den Elternzugang ausgefüllt wird, werden nur die Fragen unter ``Anmeldeangaben`` angezeigt. Die Lagerleitung kann in diesem Fall die Administrationsangaben selbst ergänzen. So können beispielsweise die Teilnehmende in Lagergruppen eingeteilt werden.
+
+.. figure:: /media/lagerverwaltung/lager-erstellen_administrationsangaben.png
+    :name: 
+    
+    Lagerverwaltung - Administrationsangaben
+
+* **Frage**: Hier kannst du die Frage definieren.
+* **Antwortmöglichkeiten**: Durch ``Antwortmöglichkeit hinzufügen``, können Antworten vorgegeben werden. Für Freitextantworten kannst du die Antwortmöglichkeiten weglassen. Wenn mehrere Antworten möglich sein sollen, ``Mehrfachauswahl`` aktivieren.
+* **Obligatorisch**: Durch das Anwählen muss diese Frage zwingend beantwortet werden.
+* **Sichtbar für**: Hier kannst du festlegen, welche Personen die Berechtigung erhalten, die Administrationsantworten zu sehen. So kannst du etwa Mitgliedern der Küche die Berechtigung geben die Gruppeneinteilung einzusehen, um diese für die Abwaschgruppen einteilung zu verwenden.
+
+.. important:: Wenn du vor hast die ``Lageranmeldung über den Elternzugang`` durch die Eltern durchzuführen, darfst du den Hacken nicht auf obligatorisch setzten. Ansonsten kann die Anmeldung nicht abgeschlossen werden, da die Administrationsanagaben nicht beantwortet werden können, da sie ihnen nicht angezeigt werden.✏️
 
 Kontaktangaben
 ~~~~~~~~~~~~~~
