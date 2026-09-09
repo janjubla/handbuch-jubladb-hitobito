@@ -108,7 +108,7 @@ Unter ``Anmeldeangaben`` kannst du hilfreiche Informationen über die Teilnehmen
             
         Lagerverwaltung - Teilnehmerübersicht als ``Küche``
 
-    Anschliessend können die Informationen über ``Export`` als Excel heruntergeladen werden um zum Beispiel die Menüplanung digital vorzunehmen. Mehr dazu im Abschnitt ``Datenverwaltung``.
+    Anschliessend können die Informationen über ``Export`` als Excel heruntergeladen werden, um etwa die Menüplanung digital vorzunehmen.
 
 ..  _administrationsangaben-link-target:
 
