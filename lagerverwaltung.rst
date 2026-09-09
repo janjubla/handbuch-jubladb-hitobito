@@ -3,7 +3,11 @@
 ========================
 Lagerverwaltung
 ========================
+<<<<<<< HEAD
 Dieser Anleitungsbereich dient der Lagerleitung und Personen, welche für die Lagerverwaltung in deiner Schar zuständig sind. Der erste Teil handelt davon, wie du ein neues Lager erstellen und konfigurieren kannst. Der zweite Teil behandelt die Lageranmeldung. Dabei wird unterschieden, ob du als Lagerleiter die Kinder manuell hinzufügst oder sie über den ``Elternzugang`` durch ihre Erziehungsberechtigten hinzufügen lässt.
+=======
+Dieser Anleitungsbereich dient der Lagerleitung und Personen, welche für die Lagerverwaltung in deiner Schar zuständig sind. Der erste Teil handelt davon, wie du ein neues Lager erstellen und konfigurieren kannst. Der zweite Teil behandelt die Lageranmeldung. 
+>>>>>>> Lagerverwaltung
 
 Lagerübersicht
 ==============
@@ -17,7 +21,11 @@ Lagerübersicht
 
 Hier findest du verschiedene Schaltflächen zur Lagerverwaltung mit den folgenden Funktionen:
 
+<<<<<<< HEAD
 * **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster, in dem ein neuer Anlass erstellt werden kann.  
+=======
+* **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster, in dem ein neues Lager erstellt werden kann.  
+>>>>>>> Lagerverwaltung
 * **Export**: Mit :guilabel:`Export` können die Lagerinformationen entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
 * **Kalender Export**: Mit :guilabel:`Kalender Export` wird das Lager automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
 * **Historie & Filtern**: Die Filterfunktion oben links und die Historie oben rechts helfen dir dabei, ein bestimmtes Lager zu finden.
@@ -25,7 +33,11 @@ Hier findest du verschiedene Schaltflächen zur Lagerverwaltung mit den folgende
 Lager erstellen
 ===============
 
+<<<<<<< HEAD
 Damit du ein neues Lager auf der Datenbank erstellen kannst, benötigst du die Rolle ``Lagerleitung`` oder ``Scharleitung``. Hast du eine dieser beiden Rollen, kannst du durch das Anwählen von :guilabel:`Lager erstellen` ein neues Lager in der Datenbank erstellen und individuell konfigurieren. Die mit ***** markierten Felder müssen zwingend ausgefüllt werden. Die Anderen sind optional.
+=======
+Damit du ein neues Lager auf der Datenbank erstellen kannst, benötigst du die Rolle ``Lagerleitung`` oder ``Scharleitung``. Hast du eine dieser Rollen, kannst du durch das Anwählen von :guilabel:`Lager erstellen` ein neues Lager in der Datenbank erstellen und individuell konfigurieren. Nach dem Anwählen öffnet sich ein Fenster mit mehreren Registern, in denen du dein Lager konfigurieren kannst. Generell gilt, dass die mit ***** markierten Felder zwingend ausgefüllt werden müssen. Die anderen sind optional.
+>>>>>>> Lagerverwaltung
 
 .. figure:: /media/lagerverwaltung/gruppe_lager_erstellen.png
     :name: 
@@ -58,8 +70,13 @@ Unter ``Daten`` wird der Zeitraum des Lagers definiert.
     
     Lagerverwaltung - Daten
 
+<<<<<<< HEAD
 * **von**/**bis**: Start- und Enddatum des Lagers.
 * **Bezeichung**: Beispielsweise Sommerlager.
+=======
+* **Von**/**Bis**: Start- und Enddatum des Lagers.
+* **Bezeichung**: Beispielsweise: Sommerlager.
+>>>>>>> Lagerverwaltung
 * **Ort**: Adresse vom Lagerplatz.
 * **Eintrag hinzufügen**: Falls dein Lager in zwei Abschnitte aufgeteilt ist, kann mit ``Eintrag hinzufügen`` eine weitere Zeitspanne definert werden.
 
@@ -74,6 +91,7 @@ Im Register ``Anmeldung`` definierst du alles Organisatorische für deine Lagera
     Lagerverwaltung - Anmeldung
 
 * **Anmeldebeginn/Anmeldeschluss**: Hier kannst du den Anmeldezeitraum bestimmen.
+<<<<<<< HEAD
 * **Aufnahmebedingungen**: Falls dein Lager Anforderungen an die Teilnehmenden stellt, wie zum Beispiel ein Mindestalter, kannst du diese hier definieren.
 * **Teilnehmendenzahl**: Mit den Feldern ``Maximale-/Minimale Teilnehmendenzahl`` kann die Personenanzahl gesteuert werden. Wenn die maximale Anzahl bereits vor dem Anmeldeschluss erreicht wird, so wird das Anmeldefenster automatisch vorzeitig geschlossen.
 * **Externe Anmeldungen**: Wenn aktiviert, können sich auch Personen, welche noch kein Profil auf der jubla Datenbank haben, für dieses Lager anmelden. Falls die Eltern ihre Kinder über den ``Elternzugang`` selbst anmelden, empfiehlt sich, dieses Feld zu deaktivieren. So wird sichergestellt, dass die Eltern sich mit dem richtigen Profil anmelden.
@@ -86,6 +104,22 @@ Anmeldeangaben
 ~~~~~~~~~~~~~~~~
 
 Unter ``Anmeldeangaben`` kannst du hilfreiche, lagerrelevante Informationen über die Teilnehmenden einholen, wie zum Beispiel, das Schwimmniveau, Essgewohnheiten, T-Shirt-Grösse etc. Durch Klicken auf ``Eintrag hinzufügen`` kannst du neue Fragen hinzufügen, welche die Teilnehmenden bei der Anmeldung beantworten müssen. Auf `jubla.netz/Lageranmeldung <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1478819847/Lageranmeldung>`_ unter "Allgemeine Angaben" findest du Empfehlungen dazu, welche Informationen du dir einholen solltest.
+=======
+* **Aufnahmebedingungen**: Falls dein Lager Anforderungen an die Teilnehmenden stellt, wie zum Beispiel ein Mindestalter, kannst du das hier definieren.
+* **Teilnehmendenzahl**: Mit den Feldern ``Maximale-/Minimale Teilnehmendenzahl`` kann die Personenanzahl gesteuert werden. Wenn die maximale Anzahl bereits vor dem Anmeldeschluss erreicht wird, so wird das Anmeldefenster automatisch vorzeitig geschlossen.
+* **Externe Anmeldungen**: Wenn aktiviert, können sich auch Personen, welche noch kein Profil auf der jubla Datenbank haben, für dieses Lager anmelden. Falls du vor hast, dass die Erziehungsberechtigten ihre Kinder selbst über den :ref:`Elternzugang <elternzugang-link-target>` anmelden, empfiehlt sich, dieses Feld zu deaktivieren. So wird sichergestellt, dass die Eltern sich mit dem richtigen Profil anmelden.
+* **Teilnehmersichtbarkeit**: Hier kann festgelegt werden, ob die Teilnehmenden sehen können, wer sich für das Lager angemeldet hat.
+* **(Zweit)Unterschrift erforderlich**: Aktivierung von ``Unterschrift erforderlich`` fordert die Teilnehmenden nach der Anmeldung auf, die Anmeldebestätigung zu unterschreiben und an die Kontaktperson zu senden. Falls eine Zweitunterschrift benötigt wird, zum Beispiel von einer erziehungsberechtigten Person, kann ``Zweitunterschrift erforderlich`` zusätzlich aktiviert werden.
+* **Abmeldung**: Die Teilnehmenden können sich selbst abmelden.
+* **Anmeldebemerkungen**: Hier können Einverständnisabklärungen eingefügt werden (Datenschutz, Bildrechte etc.). Vorschläge findest du auf `jubla.netz/Lageranmeldung <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1478819847/Lageranmeldung>`_ unter "Kleingedrucktes".
+
+..  _anmeldeangaben-link-target:
+
+Anmeldeangaben
+~~~~~~~~~~~~~~~~
+
+Unter ``Anmeldeangaben`` kannst du hilfreiche Informationen über die Teilnehmenden einholen, wie zum Beispiel das Schwimmniveau, die Essgewohnheiten, die T-Shirt-Grösse etc. Durch Klicken auf ``Eintrag hinzufügen`` kannst du neue Fragen hinzufügen, welche die Teilnehmenden bei der Anmeldung beantworten müssen. Auf `jubla.netz/Lageranmeldung <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1478819847/Lageranmeldung>`_ unter "Allgemeine Angaben" findest du Empfehlungen dazu, welche Informationen du dir einholen solltest.
+>>>>>>> Lagerverwaltung
 
 .. figure:: /media/lagerverwaltung/lager-erstellen_anmeldeangaben.png
     :name: 
@@ -93,21 +127,72 @@ Unter ``Anmeldeangaben`` kannst du hilfreiche, lagerrelevante Informationen übe
     Lagerverwaltung - Anmeldeangaben
 
 * **Frage**: Hier kannst du die Frage definieren.
+<<<<<<< HEAD
 * **Antwortmöglichkeiten**: Durch ``Antwortmöglichkeit hinzufügen``, können Antworten vorgegeben werden. Für Freitextantworten keine Antwortmöglichkeiten hinzufügen. Wenn mehrere Antworten möglich sein sollen, ``Mehrfachauswahl`` aktivieren.
 * **Obligatorisch**: Durch das Anwählen muss diese Frage zwingend beantwortet werden.
 * **Sichtbar für**: Hier kannst du festlegen, welchen Personen die Frage bei der Anmeldung angezeigt wird und welchen nicht. Schaue deswegen, dass der Haken  bei ``Teilnehmer*innen`` gesetzt ist, ausser die Frage ist spezifisch für eine andere Rolle gedacht (Bspw. Kannst du Auto fahren? - für die Küche). Nur so werden die Teilnehmer*innen die Frage beantworten können.
+=======
+* **Antwortmöglichkeiten**: Durch ``Antwortmöglichkeit hinzufügen``, können Antworten vorgegeben werden. Für Freitextantworten kannst du die Antwortmöglichkeiten weglassen. Wenn mehrere Antworten möglich sein sollen, ``Mehrfachauswahl`` aktivieren.
+* **Obligatorisch**: Durch das Anwählen muss diese Frage zwingend beantwortet werden.
+* **Sichtbar für**: Hier kannst du festlegen, welche Personen die Berechtigung erhalten, die Antworten der Teilnehmenden zu sehen. So kannst du etwa Mitgliedern der Küche die Berechtigung auf die Frage der Essgewohnheiten geben. Wenn du die Antworten für die Teilnehmer*innen zugänglich machen willst, muss zusätzlich im vorherigen Abschnitt ``Anmeldung`` der Haken unter ``Teilnehmersichtbarkeit`` gesetzt sein. Ansonsten gelangen sie nicht auf die Teilnehmeransicht, auf der die Informationen aufgeführt sind.
+
+    **Beispiel - Sichtbarkeit**:
+    
+    In der folgenden Abbildung siehst du, wie die Teilnehmerübersicht unter dem Register ``Teilnehmende`` aus der Sicht eines Küchenmitglieds (Sebastian Muster) aussehen kann. Um die Antworten der Teilnehmenden zu sehen, muss unter ``spalten`` die entsprechende Frage ausgewählt werden. In diesem Beispiel kann die Person nur die Essgewohnheiten einsehen, jedoch nicht das Schwimmniveau (ausser ihr eigenes).
+    
+    .. figure:: /media/lagerverwaltung/lager-erstellen_anmeldeangaben_tnübersicht_küche.png
+        :name: 
+            
+        Lagerverwaltung - Teilnehmerübersicht als ``Küche``
+
+    Anschliessend können die Informationen über ``Export`` als Excel heruntergeladen werden, um etwa die Menüplanung digital vorzunehmen.
+
+..  _administrationsangaben-link-target:
+>>>>>>> Lagerverwaltung
 
 Administrationsangaben
 ~~~~~~~~~~~~~~~~~~~~~~
 
+<<<<<<< HEAD
 ??✏️
+=======
+Im Abschnitt ``Administrationsangaben`` kannst du administrative Fragen erstellen. Im Gegensatz zu den Fragen unter ``Anmeldeangaben`` werden diese den Teilnehmer*innen bei der Lageranmeldung **nicht** gestellt, sondern lediglich der Lagerleitung, wenn sie neue Personen dem Lager hinzufügt oder bestehende Anmeldungen bearbeitet. So können etwa die Teilnehmer*innen durch die Lagerleitung in Lager- und/oder Ämtligruppen eingeteilt werden.
+
+Wenn die Lageranmeldung durch die Teilnehmer*innen selbst oder ihre Eltern über den Elternzugang ausgefüllt wird, werden nur die Fragen unter ``Anmeldeangaben`` angezeigt. Die Lagerleitung kann in diesem Fall die Administrationsfragen selbst nachträglich in der Anmeldung ergänzen. Mehr dazu im Abschnitt: :ref:`Lageranmeldung über den Elternzugang <lageranmeldung_elternzugang-link-target>`.
+
+.. figure:: /media/lagerverwaltung/lager-erstellen_administrationsangaben.png
+    :name: 
+    
+    Lagerverwaltung - Administrationsangaben
+
+* **Frage**: Hier kannst du die Frage definieren.
+* **Antwortmöglichkeiten**: Durch ``Antwortmöglichkeit hinzufügen``, können Antworten vorgegeben werden. Für Freitextantworten kannst du die Antwortmöglichkeiten weglassen. Wenn mehrere Antworten möglich sein sollen, ``Mehrfachauswahl`` aktivieren.
+* **Obligatorisch**: Durch das Anwählen muss diese Frage zwingend beantwortet werden.
+* **Sichtbar für**: Hier kannst du festlegen, welche Personen die Berechtigung erhalten, die Administrationsantworten zu sehen. So kannst du etwa Mitgliedern der Küche die Berechtigung geben, die Gruppeneinteilung einzusehen, um diese für die Abwaschgruppeneinteilung zu verwenden.
+
+.. important:: Wenn du vor hast, die :ref:`Lageranmeldung über den Elternzugang <lageranmeldung_elternzugang-link-target>` durchzuführen, darfst du den Haken nicht auf obligatorisch setzen. Ansonsten kann die Anmeldung nicht abgeschlossen werden, da ihnen die Administrationsfragen nicht angezeigt werden und sie deswegen auch nicht beantworten können. Du kannst sie aber später selbst manuell beantworten.
+
+..  _kontaktangaben-link-target:
+
+>>>>>>> Lagerverwaltung
 
 Kontaktangaben
 ~~~~~~~~~~~~~~
 
+<<<<<<< HEAD
 Hier kannst du wählen, welche Kontaktangaben der Teilnehmenden bei der Anmeldung abgefragt werden sollen. Es gibt die Möglichkeit, zwischen ``Obligatorisch``, ``Optional`` und ``Nicht anzeigen`` zu wählen.
 
 .. important:: Die folgenden Angaben sind obligatorisch für die NDS: **Name**, **Vorname**, **Geburtsdatum**, **Geschlecht** (nur weiblich oder männlich zulässig auf der NDS), **AHV Nr**, **Nationalität**, **Muttersprache**, **Strasse**, **Hausnummer**, **PLZ**, **Ort**, **Land**
+=======
+Hier kannst du wählen, welche Kontaktangaben der Teilnehmenden bei der Anmeldung abgefragt werden sollen. Es gibt die Möglichkeit, zwischen ``Obligatorisch``, ``Optional`` und ``Nicht anzeigen`` zu wählen. Wenn du die Teilnehmer*innen manuell als Lagerleiter*in hinzufügst, musst du die Kontaktangaben im Profil ergänzen, da sie nicht beim Hinzufügen abgefragt werden.
+
+.. figure:: /media/lagerverwaltung/lager-erstellen_kontaktangaben.png
+    :name: 
+    
+    Lagerverwaltung - Kontaktangaben
+
+.. important:: Die folgenden Angaben sind obligatorisch für die NDS: **Name**, **Vorname**, **Geburtsdatum**, **Geschlecht** (nur weiblich oder männlich zulässig auf der NDS), **AHV Nr**, **Nationalität**, **Muttersprache**, **Strasse**, **Hausnummer**, **PLZ**, **Ort**, **Land**.
+>>>>>>> Lagerverwaltung
 
 Anleitungsvideo
 ~~~~~~~~~~~~~~~~~~
@@ -117,12 +202,21 @@ Falls du bei der Lagererstellung lieber einem Video folgst, kannst du dir dieses
 Lageranmeldung
 ==============
 
+<<<<<<< HEAD
 Generell gibt es zwei Möglichkeiten, die Lagerteilnehmer*innen auf der jubla.db anzumelden. Entweder du lässt die Anmeldung von den Teilnehmenden analog per Post ausfüllen und trägst sie anschliessend selbst in der Datenbank ein, oder du lässt die Anmeldung durch die Erziehungsberechtigten in der Datenbank vornehmen. Im Folgenden werden beide Methoden erklärt.
 
 Teilnehmende als Lagerleiter*in hinzufügen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In der Registerkarte ``Teilnehmende`` deines Lagers kannst du mit der Schaltfläche :guilabel:`Person hinzufügen` manuell Personen hinzufügen und ihre Rolle im Lager definieren. Wichtig ist, dass die Personen bereits ein Profil auf der ``jubla.db`` haben.
+=======
+Generell gibt es zwei Möglichkeiten, die Lagerteilnehmer*innen auf der jubla.db anzumelden. Entweder du lässt die Anmeldung von den Teilnehmenden analog per Post ausfüllen und fügst sie anschliessend selbst in der Datenbank hinzu, oder du lässt die Anmeldung durch die Teilnehmenden oder ihren Erziehungsberechtigten selbst in der Datenbank vornehmen.
+
+Teilnehmende als Lagerleitung hinzufügen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In der Registerkarte ``Teilnehmende`` deines Lagers kannst du mit der Schaltfläche ``Person hinzufügen`` manuell Personen hinzufügen und ihre Rolle im Lager definieren. Wichtig ist, dass die Personen bereits ein Profil auf der jubla.db haben.
+>>>>>>> Lagerverwaltung
 
 .. figure:: /media/lagerverwaltung/lageranmeldung_teilnehmende.png
     :name: 
@@ -136,7 +230,11 @@ Im Feld ``Person suchen`` kannst du mit dem Namen nach einer Person suchen und s
     
     Lageranmeldung - Teilnehmende hinzufügen
 
+<<<<<<< HEAD
 Wenn du beim Lagererstellen ``Anmeldeangaben`` definiert hast, so kannst du als Nächstes die Fragen für die Person beantworten und unter ``Bemerkungen`` weitere relevante Informationen ergänzen. Wenn du alles eingetragen hast, kannst du die Anmeldung abschliessen, indem du auf ``speichern`` drückst.
+=======
+Wenn du beim Lagererstellen :ref:`Anmeldeangaben <anmeldeangaben-link-target>` und/oder :ref:`Administrationsangaben <administrationsangaben-link-target>` definiert hast, so kannst du als Nächstes die Fragen für die Person beantworten und unter ``Bemerkungen`` weitere relevante Informationen ergänzen. Wenn du alles eingetragen hast, kannst du die Anmeldung abschliessen, indem du auf ``speichern`` drückst.
+>>>>>>> Lagerverwaltung
 
 .. figure:: /media/lagerverwaltung/lageranmeldung_anmeldeangaben_ausfüllen.png
     :name: 
@@ -145,10 +243,36 @@ Wenn du beim Lagererstellen ``Anmeldeangaben`` definiert hast, so kannst du als 
 
 In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie du die Teilnehmenden für das Lager verwalten kannst.
 
+<<<<<<< HEAD
 Lageranmeldung über den Elternzugang
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Je grösser ein Lager ist, desto mehr Aufwand entsteht durch das manuelle Hinzufügen der Teilnehmenden. Um den Aufwand zu reduzieren, kannst du den ``Elternzugang`` für deine Schar einrichten. Dadurch können die Eltern die Profile ihrer Kinder verwalten und diese selbstständig für euer Lager anmelden. Wie du den ``Elternzugang`` einrichten kannst, wird dir unter :ref:`Elternzugangsverwaltung <elternzugang-link-target>` erklärt. Im folgenden Abschnitt wird gezeigt, wie die Eltern nach dem Einrichten des Zugangs ihre Kinder selbstständig auf der Datenbank für das Lager anmelden können.
+=======
+..  _lageranmeldung_elternzugang-link-target:
+
+Teilnehmende melden sich selbst an
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Die Teilnehmer*innen melden sich auf der Jubla.db mit ihrem Log-in an und finden das Lager unter ``Demnächst stattfindende Anlässe`` im Modul ``Anlässe`` oder auf Ebene der Schar unter ``Lager``. Alternativ kannst du den Teilnehmer*innen auch einen ``Direktlink`` zustellen.
+
+.. figure:: /media/lagerverwaltung/lageranmeldung_lager_finden_anlaesse.png
+    :name: 
+    
+    Lageranmeldung - über Anlässe
+
+.. figure:: /media/lagerverwaltung/lageranmeldung_lager_finden_schar.png
+    :name: 
+    
+    Lageranmeldung - über Schar
+
+Durch Klicken auf ``Anmelden`` wird die Person erst aufgefordert die :ref:`Kontaktangaben <kontaktangaben-link-target>` anzugeben und anschliessend die Fragen, welche beim Lagererstellen unter :ref:`Anmeldeangaben <anmeldeangaben-link-target>` definiert wurden, zu beantworten. Fragen unter :ref:`Administrationsangaben <administrationsangaben-link-target>` werden nicht angezeigt.
+
+Lageranmeldung über den Elternzugang
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Damit die Erziehungsberechtigten/Eltern ihre Kinder selbst auf der Datenbank anmelden können, muss deine Schar zuerst einen ``Elternzugang``einrichten. Wie du diesen einrichten kannst, wird dir unter :ref:`Elternzugangsverwaltung <elternzugang-link-target>` erklärt. Im folgenden Abschnitt wird gezeigt, wie die Eltern nach dem Einrichten des Zugangs ihre Kinder selbstständig auf der Datenbank für das Lager anmelden können.
+>>>>>>> Lagerverwaltung
 
 Damit es für die Eltern möglichst einfach ist, das Lager auf der Datenbank zu finden, kannst du auf ``Direktlink kopieren`` klicken und diesen Link mit den Eltern teilen.
 
@@ -164,7 +288,11 @@ Wenn die Eltern den Link öffnen, landen sie direkt auf der Übersichtsseite des
     
     Lageranmeldung - Anmeldung
 
+<<<<<<< HEAD
 Anschliessend können die Eltern die Anmeldung ausfüllen und speichern. In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie die Eltern ihre Kinder anmelden können.
+=======
+Anschliessend können die Eltern die :ref:`Kontaktangaben <kontaktangaben-link-target>` und :ref:`Anmeldeangaben <anmeldeangaben-link-target>` ausfüllen und speichern. Fragen unter :ref:`Administrationsangaben <administrationsangaben-link-target>` werden nicht angezeigt.
+>>>>>>> Lagerverwaltung
 
 .. figure:: /media/lagerverwaltung/lageranmeldung_elternzugang_kontaktangaben.png
     :name: 
@@ -174,3 +302,8 @@ Anschliessend können die Eltern die Anmeldung ausfüllen und speichern. In dies
     :name: 
     
     Lageranmeldung - Anmeldeangaben
+<<<<<<< HEAD
+=======
+
+In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie die Eltern ihre Kinder anmelden können.
+>>>>>>> Lagerverwaltung
