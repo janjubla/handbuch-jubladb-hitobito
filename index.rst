@@ -41,6 +41,7 @@ Wenn du zur ``Scharleitung`` oder zu einem Organisationsteam geh√∂rst, die zust√
    :caption: Mitgliederverwaltung
 
    scharverwaltung
+   lagerverwaltung
    elternzugangsverwaltung
    ehemaligenverwaltung
    rechnungen
