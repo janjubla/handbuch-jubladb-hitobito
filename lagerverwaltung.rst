@@ -206,12 +206,21 @@ Durch Klicken auf ``Anmelden`` wird die Person erst aufgefordert die :ref:`Konta
     
     Lageranmeldung - Anmelden
 
+.. figure:: /media/lagerverwaltung/lageranmeldung_elternzugang_kontaktangaben.png
+    :name: 
+    
+    Lageranmeldung - Kontaktangaben
+.. figure:: /media/lagerverwaltung/lageranmeldung_elternzugang_anmeldeangaben_ausfüllen.png
+    :name: 
+    
+    Lageranmeldung - Anmeldeangaben
+
 ..  _lageranmeldung_elternzugang-link-target:
 
 Lageranmeldung über den Elternzugang
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Damit die Erziehungsberechtigten/Eltern ihre Kinder selbst auf der Datenbank anmelden können, muss deine Schar zuerst einen ``Elternzugang`` einrichten. Wie du diesen einrichten kannst, wird dir unter :ref:`Elternzugangsverwaltung <elternzugang-link-target>` erklärt. Im folgenden Abschnitt wird gezeigt, wie die Eltern nach dem Einrichten des Zugangs ihre Kinder selbstständig auf der Datenbank für das Lager anmelden können.
+Damit die Erziehungsberechtigten/Eltern ihre Kinder selbständig auf der Datenbank anmelden können, muss deine Schar zuerst einen ``Elternzugang`` einrichten. Wie du diesen einrichten kannst, wird dir unter :ref:`Elternzugangsverwaltung <elternzugang-link-target>` erklärt. Im folgenden Abschnitt wird gezeigt, wie die Erziehungsberechtigten/Eltern anschliessend die Lageranmeldung vornehmen können.
 
 Damit es für die Eltern möglichst einfach ist, das Lager auf der Datenbank zu finden, kannst du auf ``Direktlink kopieren`` klicken und diesen Link mit den Eltern teilen.
 
