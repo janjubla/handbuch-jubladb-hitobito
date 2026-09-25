@@ -256,3 +256,14 @@ In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/
 
 Anmeldebestätigung
 ~~~~~~~~~~~~~~~~~~~
+Wenn die Lageranmeldung durch die Teilnehmenden oder durch ihre Erziehungsberechtigten ausgefüllt wird, wird nach der Anmeldung eine Anmeldebestätigung per Mail verschickt. Je nach Einstellungen bei der Lager erstellung, sieht diese unterschiedlich aus und fordert die Teilnehmenden und ihre Erziehungsberechtigten auf die Anmeldung zu unterschreiben.
+
+.. figure:: /media/lagerverwaltung/anmeldebestätigung_seite1.png
+    :name: 
+    
+    Lageranmeldung - Anmeldebestätigung (seite 1)
+
+.. figure:: /media/lagerverwaltung/anmeldebestätigung_seite2.png
+    :name: 
+    
+    Lageranmeldung - Anmeldebestätigung (seite 2)
