@@ -35,7 +35,7 @@ Damit du ein neues Lager auf der Datenbank erstellen kannst, benötigst du die R
 Allgemein
 ~~~~~~~~~~
 
-Im Register ``Allgemein`` können Informationen wie **Name**, **Lagerart**, **Lagerbeschreibung**, **Motto**, **Kosten**, **Ort/Adresse** und **Coach** eingetragen werden.
+Im Register ``Allgemein`` können Informationen wie **Name**, **Lagerart**, **Motto**, **Kosten**, **Ort/Adresse** und **Coach** eingetragen werden.
 
 .. figure:: /media/lagerverwaltung/lager-erstellen_uebersicht.png
     :name: 
@@ -45,6 +45,7 @@ Im Register ``Allgemein`` können Informationen wie **Name**, **Lagerart**, **La
 Zudem kann Folgendes definiert werden:
 
 * **Nummer**: Hier kann die J+S‑Nummer eingetragen werden.
+* **Beschreibung**: Hier können Einverständnisabklärungen eingefügt werden (Datenschutz, Bildrechte etc.). Diese werden auf der Rückseite der Anmeldebestätigung aufgelistet, welche nach dem Absenden der Anmeldung an die angegebene Mailadresse gesendet und durch eine Unterschrift bestätigt wird, sofern unter :ref:`Anmeldung <anmeldung-link-target>` der Haken bei "Unterschrift erforderlich" gesetzt ist. Vorschläge findest du auf `jubla.netz/Lageranmeldung <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1478819847/Lageranmeldung>`_ unter "Kleingedrucktes". Eine Vorschau wie dies konkret auf der Anmeldebestätigung umgesetz wird ist unter "..."
 * **Kontaktperson**: Hier kann eine Kontaktperson für das Lager ausgewählt werden. Nach dem Auswählen öffnen sich Anzeigeoptionen, die festlegen, welche Informationen der Kontaktperson für die Lagerteilnehmenden angezeigt werden sollen.
 * **Sichtbarkeit**: Mit dem Aktivieren von "Anlass ist für die ganze Datenbank sichtbar" ermöglichst du anderen Scharen, sich für euer Lager anzumelden.
 
@@ -63,6 +64,8 @@ Unter ``Daten`` wird der Zeitraum des Lagers definiert.
 * **Ort**: Adresse vom Lagerplatz.
 * **Eintrag hinzufügen**: Falls dein Lager in zwei Abschnitte aufgeteilt ist, kann mit ``Eintrag hinzufügen`` eine weitere Zeitspanne definert werden.
 
+..  _anmeldung-link-target:
+
 Anmeldung
 ~~~~~~~~~~
 
@@ -78,9 +81,9 @@ Im Register ``Anmeldung`` definierst du alles Organisatorische für deine Lagera
 * **Teilnehmendenzahl**: Mit den Feldern ``Maximale-/Minimale Teilnehmendenzahl`` kann die Personenanzahl gesteuert werden. Wenn die maximale Anzahl bereits vor dem Anmeldeschluss erreicht wird, so wird das Anmeldefenster automatisch vorzeitig geschlossen.
 * **Externe Anmeldungen**: Wenn aktiviert, können sich auch Personen, welche noch kein Profil auf der jubla Datenbank haben, für dieses Lager anmelden. Falls du vor hast, dass die Erziehungsberechtigten ihre Kinder selbst über den :ref:`Elternzugang <elternzugang-link-target>` anmelden, empfiehlt sich, dieses Feld zu deaktivieren. So wird sichergestellt, dass die Eltern sich mit dem richtigen Profil anmelden.
 * **Teilnehmersichtbarkeit**: Hier kann festgelegt werden, ob die Teilnehmenden sehen können, wer sich für das Lager angemeldet hat.
-* **(Zweit)Unterschrift erforderlich**: Aktivierung von ``Unterschrift erforderlich`` fordert die Teilnehmenden nach der Anmeldung auf, die Anmeldebestätigung zu unterschreiben und an die Kontaktperson zu senden. Falls eine Zweitunterschrift benötigt wird, zum Beispiel von einer erziehungsberechtigten Person, kann ``Zweitunterschrift erforderlich`` zusätzlich aktiviert werden.
+* **(Zweit)Unterschrift erforderlich**: Aktivierung von ``Unterschrift erforderlich`` fordert die Teilnehmenden nach der Anmeldung auf, die Anmeldebestätigung, welche per Mail zugestellt wird, zu unterschreiben und an die Kontaktperson zu senden. Falls eine Zweitunterschrift benötigt wird, zum Beispiel von einer erziehungsberechtigten Person, kann ``Zweitunterschrift erforderlich`` zusätzlich aktiviert werden.
 * **Abmeldung**: Die Teilnehmenden können sich selbst abmelden.
-* **Anmeldebemerkungen**: Hier können Einverständnisabklärungen eingefügt werden (Datenschutz, Bildrechte etc.). Vorschläge findest du auf `jubla.netz/Lageranmeldung <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1478819847/Lageranmeldung>`_ unter "Kleingedrucktes".
+* **Anmeldebemerkungen**: Hier können Hinweise zur Anmeldebestätigung angegeben werden, zum Beispiel bis wann und auf welchem Weg die unterschriebene Anmeldebestätigung retourniert werden soll.
 
 ..  _anmeldeangaben-link-target:
 
@@ -250,3 +253,6 @@ Anschliessend können die Eltern die :ref:`Kontaktangaben <kontaktangaben-link-t
     Lageranmeldung - Anmeldeangaben
 
 In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie die Eltern ihre Kinder anmelden können.
+
+Anmeldebestätigung
+~~~~~~~~~~~~~~~~~~~
