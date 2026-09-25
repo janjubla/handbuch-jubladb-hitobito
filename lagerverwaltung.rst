@@ -173,7 +173,7 @@ Im Feld ``Person suchen`` kannst du mit dem Namen nach einer Person suchen und s
     
     Lageranmeldung - Teilnehmende hinzufügen
 
-Wenn du beim Lagererstellen :ref:`Anmeldeangaben <anmeldeangaben-link-target>` und/oder :ref:`Administrationsangaben <administrationsangaben-link-target>` definiert hast, so kannst du als Nächstes die Fragen für die Person beantworten und unter ``Bemerkungen`` weitere relevante Informationen ergänzen. Wenn du alles eingetragen hast, kannst du die Anmeldung abschliessen, indem du auf ``speichern`` drückst.
+Wenn du beim Lagererstellen :ref:`Anmeldeangaben <anmeldeangaben-link-target>` und/oder :ref:`Administrationsangaben <administrationsangaben-link-target>` definiert hast, so kannst du als Nächstes die Fragen für die anzumeldende Person beantworten und unter ``Bemerkungen`` weitere relevante Informationen ergänzen. Eine Eingabeaufforderung für die ausgewählten :ref:`Kontaktangaben <kontaktangaben-link-target>` wird nicht angezeigt. Diese werden nur bei der Lageranmeldung durch die :ref:`Teilnehmenden <teilnehmende_melden_sich_selbst_an-link-target>` oder durch die :ref:`Erziehungsberechtigten <lageranmeldung_elternzugang-link-target>` angezeigt. Wenn du alles eingetragen hast, kannst du die Anmeldung abschliessen, indem du auf ``speichern`` drückst.
 
 .. figure:: /media/lagerverwaltung/lageranmeldung_anmeldeangaben_ausfüllen.png
     :name: 
@@ -182,10 +182,12 @@ Wenn du beim Lagererstellen :ref:`Anmeldeangaben <anmeldeangaben-link-target>` u
 
 In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie du die Teilnehmenden für das Lager verwalten kannst.
 
+..  _teilnehmende_melden_sich_selbst_an-link-target:
+
 Teilnehmende melden sich selbst an
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Die Teilnehmer*innen melden sich auf der Jubla.db mit ihrem Log-in an und finden das Lager unter ``Demnächst stattfindende Anlässe`` im Modul ``Anlässe`` oder auf Ebene der Schar unter ``Lager``. Alternativ kannst du den Teilnehmer*innen auch einen ``Direktlink`` zustellen.
+Die Teilnehmer*innen melden sich auf der Jubla.db mit ihrem Log-in an und finden das Lager unter ``Demnächst stattfindende Anlässe`` im Modul ``Anlässe`` oder auf Ebene der Schar unter ``Lager``. Alternativ kannst du den Teilnehmer*innen auch einen :ref:`Direktlink <direktlink_bild-link-target>` zustellen.
 
 .. figure:: /media/lagerverwaltung/lageranmeldung_lager_finden_anlaesse.png
     :name: 
@@ -199,6 +201,11 @@ Die Teilnehmer*innen melden sich auf der Jubla.db mit ihrem Log-in an und finden
 
 Durch Klicken auf ``Anmelden`` wird die Person erst aufgefordert die :ref:`Kontaktangaben <kontaktangaben-link-target>` anzugeben und anschliessend die Fragen, welche beim Lagererstellen unter :ref:`Anmeldeangaben <anmeldeangaben-link-target>` definiert wurden, zu beantworten. Fragen unter :ref:`Administrationsangaben <administrationsangaben-link-target>` werden nicht angezeigt.
 
+.. figure:: /media/lagerverwaltung/lageranmeldung_anmelden.png
+    :name: 
+    
+    Lageranmeldung - Anmelden
+
 ..  _lageranmeldung_elternzugang-link-target:
 
 Lageranmeldung über den Elternzugang
@@ -207,6 +214,8 @@ Lageranmeldung über den Elternzugang
 Damit die Erziehungsberechtigten/Eltern ihre Kinder selbst auf der Datenbank anmelden können, muss deine Schar zuerst einen ``Elternzugang`` einrichten. Wie du diesen einrichten kannst, wird dir unter :ref:`Elternzugangsverwaltung <elternzugang-link-target>` erklärt. Im folgenden Abschnitt wird gezeigt, wie die Eltern nach dem Einrichten des Zugangs ihre Kinder selbstständig auf der Datenbank für das Lager anmelden können.
 
 Damit es für die Eltern möglichst einfach ist, das Lager auf der Datenbank zu finden, kannst du auf ``Direktlink kopieren`` klicken und diesen Link mit den Eltern teilen.
+
+..  _direktlink_bild-link-target:
 
 .. figure:: /media/lagerverwaltung/lageranmeldung_elternzugang_link.png
     :name: 
